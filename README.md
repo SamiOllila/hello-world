@@ -1,2 +1,2 @@
 # hello-world
-A practice repository
+A practice repository. Used to practice the use of github.
